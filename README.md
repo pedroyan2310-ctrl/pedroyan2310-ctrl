@@ -20,6 +20,14 @@
 </a>
 
 <br /><br />
+<div align="center">
+  <a href="https://pedroyan2310-ctrl.github.io/pedroyan2310-ctrl/index.html">
+    <img src="https://img.shields.io/badge/ABRIR%20PORTF%C3%93LIO%20HTML-FFFFFF?style=for-the-badge&amp;labelColor=050505" alt="Abrir meu portfólio HTML animado" />
+  </a>
+  <br />
+  <sub>Jogos, sites e experiências em uma página interativa.</sub>
+</div>
+<br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=pedroyan2310-ctrl&style=for-the-badge&color=171020&label=VISITAS+NO+PERFIL" alt="Visitas no perfil" />
 
@@ -197,5 +205,9 @@ Sou o **Pedro Yan**, estudante de programacao e criador de jogos, sites e experi
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,45:160B2E,100:05040A&height=120&section=footer" alt="Footer" />
 
 </div>
+
+
+
+
 
 
